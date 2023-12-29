@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d62a984d3f597a0557609196c0ca4b5f75d390adcad9ea71964d7558c4e35411
-size 318
+# face-datasets
+some face datasets collected or processed by myself
+
+## front-side-faces
+Front and side face datasets can be used to train image binary classifiers
+
+## mexico-face-dataset-sample
+The facial dataset of Mexican male and female celebrity samples can be used to
+validate Mexican business facial algorithms
